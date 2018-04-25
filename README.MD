@@ -1,5 +1,5 @@
 # tm1637-fpga
-4-Stellen 7-Segment Display für FPGA
+4-Stellen 7-Segment Anzeige für FPGA
 
 Modul setzt "kastrierte" Version von I2C ein (Kommunikation erfolge ohne I2C-Busteilnehmeradresse).
 
