@@ -5,6 +5,6 @@ Die "Bit-Banging-Lösung" ist entstanden durch Mitschneiden einer Arduino-Beispi
 
 Die VHDL-Funktion 'int_to_seg7' hat die Zahl 2017 hartkodiert und ist nicht als Parameter "nach außen" verfügbar. 
 
-Todo (dahingehender Versuch macht Probleme mit wertwillkürlicher Anzeige !!!)
+Todo (... dahingehender Versuch macht Probleme mit wertwillkürlicher Anzeige !!! Problem: voneinander (un)abhängige Clocks)
 
 ![alt text](https://i.ebayimg.com/images/g/qf8AAOSw301aUlaS/s-l400.jpg "TM1637")
