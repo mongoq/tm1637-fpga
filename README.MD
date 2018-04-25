@@ -1,5 +1,5 @@
 # tm1637-fpga
-4-Digit 7-Segment Display an FPGA
+4-Digit 7-Segment Display für FPGA
 
 Die "Bit-Banging-Lösung" ist entstanden durch Mitschneiden einer Arduino-Beispiel-Kommunikation (nachgehalten mit [Logic-Analyser](https://www.saleae.com/de) und Stift + Zettel) und Vergleich mit dem Datenblatt.
 
