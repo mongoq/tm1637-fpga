@@ -19,4 +19,4 @@ Igor K.
 
 ---
 
-Kann ich jedoch nicht nachvollziehen. Die Funktion *int_to_seg7* hat vier Übergabeparameter ?!!! 
+Kann ich jedoch nicht nachvollziehen. Die Funktion **int_to_seg7** hat vier Übergabeparameter ?!!! 
