@@ -5,7 +5,7 @@ Modul setzt "kastrierte" Version von I2C ein (Kommunikation erfolgt ohne I2C-Bus
 
 Die "Bit-Banging-Lösung" ist entstanden durch Mitschneiden einer Arduino-Beispiel-Kommunikation (nachgehalten mit [Logic-Analyser](https://www.saleae.com/de) und Stift + Zettel) und Vergleich mit dem Datenblatt.
 
-Die VHDL-Funktion "int_to_seg7" hat die Zahl **2017** hartkodiert und ist somit nicht als Parameter "nach außen" verfügbar. 
+Die VHDL-Funktion "int_to_seg7" bei tm1637_standalone.vhd hat die Zahl **2017** hartkodiert und ist somit nicht als Parameter "nach außen" verfügbar. 
 
 Todo (... dahingehende Änderungsversuche machen Probleme mit wertwillkürlicher Anzeige !!! Problem: voneinander (un)abhängige Clocks ... Hardwarequarz hierbei: **25 MHz**)
 
@@ -15,4 +15,4 @@ Todo (... dahingehende Änderungsversuche machen Probleme mit wertwillkürlicher
 
 1. Version: tm1637_standalone.vhd
 
-2. Version: tm1637_external_connect.vhd - Dank an Igor K. !!! Verbindug "nach außen" implementiert ...
+2. Version: tm1637_external_connect.vhd - Dank an Igor K. !!! Verbindug "nach außen" implementiert ... TODO: Ungetestet ...
