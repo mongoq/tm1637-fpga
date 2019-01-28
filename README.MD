@@ -9,10 +9,10 @@ Die VHDL-Funktion "int_to_seg7" bei tm1637_standalone.vhd hat die Zahl **2017** 
 
 Todo (... dahingehende Änderungsversuche machen Probleme mit wertwillkürlicher Anzeige !!! Problem: voneinander (un)abhängige Clocks ... Hardwarequarz hierbei: **25 MHz**)
 
-![alt text](https://i.ebayimg.com/images/g/qf8AAOSw301aUlaS/s-l400.jpg "TM1637")
-
 ---
 
 1. Version: tm1637_standalone.vhd
 
 2. Version: tm1637_external_connect.vhd - Dank an Igor K. !!! Verbindug "nach außen" implementiert ... TODO: Ungetestet ...
+
+![alt text](https://i.ebayimg.com/images/g/qf8AAOSw301aUlaS/s-l400.jpg "TM1637")
