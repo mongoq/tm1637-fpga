@@ -15,4 +15,6 @@ Todo (... dahingehende Änderungsversuche machen Probleme mit wertwillkürlicher
 
 2. Version: tm1637_external_connect.vhd - Dank an Igor K. !!! Verbindug "nach außen" implementiert ... TODO: Ungetestet ...
 
+---
+
 ![alt text](https://i.ebayimg.com/images/g/qf8AAOSw301aUlaS/s-l400.jpg "TM1637")
