@@ -13,7 +13,8 @@ Todo (... dahingehende Änderungsversuche machen Probleme mit wertwillkürlicher
 
 1. Version: **tm1637_standalone.vhd**
 
-2. Version: **tm1637_external_connect.vhd** - Dank an Igor K. !!! Verbindug "nach außen" implementiert ... TODO: Ungetestet ...
+2. Version: **tm1637_external_connect.vhd** - Dank an Igor K. !!! Verbindug "nach außen" implementiert ... 
+TODO: Ungetestet ...
 
 ---
 
