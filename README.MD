@@ -1,7 +1,7 @@
 # tm1637-fpga
 4-Stellen 7-Segment Anzeige für FPGA
 
-Modul setzt "kastrierte" Version von I2C ein (Kommunikation erfolgt ohne I2C-Busteilnehmeradresse).
+Modul setzt funktionsreduzierte Version von I2C ein (Kommunikation erfolgt ohne I2C-Busteilnehmeradresse).
 
 Diese "Bit-Banging-Lösung" ist entstanden durch Mitschneiden einer Arduino Beispielkommunikation (nachgehalten mit [Logic-Analyser](https://www.saleae.com/de) und Stift & Zettel) und Vergleich mit dem Datenblatt.
 
