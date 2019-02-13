@@ -5,8 +5,6 @@ Modul setzt funktionsreduzierte Version von I2C ein (Kommunikation erfolgt ohne 
 
 Diese "Bit-Banging-Lösung" ist entstanden durch Mitschneiden einer Arduino Beispielkommunikation (nachgehalten mit [Logic-Analyser](https://www.saleae.com/de) und Stift & Zettel) und Vergleich mit dem Datenblatt.
 
-Die VHDL-Funktion "int_to_seg7" bei **tm1637_standalone.vhd** hat die Zahl **2017** hartkodiert und ist somit nicht als Parameter "nach außen" verfügbar. 
-
 <!--Todo (... dahingehende Änderungsversuche machen Probleme mit wertwillkürlicher Anzeige !!! Problem: voneinander (un)abhängige Clocks ... Hardwarequarz hierbei: **25 MHz**)-->
 
 ---
