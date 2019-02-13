@@ -11,7 +11,7 @@ Die VHDL-Funktion "int_to_seg7" bei **tm1637_standalone.vhd** hat die Zahl **201
 
 ---
 
-1. Version: **tm1637_standalone.vhd**
+1. Version: **tm1637_standalone.vhd** - Display of **2017** hard coded
 
 2. Version: **tm1637_external_connect.vhd** - Verbindug "nach außen" implementiert. Dank an Igor K. !!! 
 
