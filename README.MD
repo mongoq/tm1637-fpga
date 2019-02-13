@@ -11,7 +11,7 @@ Diese "Bit-Banging-Lösung" ist entstanden durch Mitschneiden einer Arduino Beis
 
 1. Version: **tm1637_standalone.vhd** - Display of **2017** hard coded
 
-2. Version: **tm1637_external_connect.vhd** - Verbindug "nach außen" implementiert. Dank an Igor K. !!! 
+2. Version: **tm1637_external_connect.vhd** - Connection to "outside world" implemented ... thanks go to Igor K. !!! 
 
 ---
 
