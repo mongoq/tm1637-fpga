@@ -3,7 +3,7 @@
 
 Modul setzt funktionsreduzierte Version von I2C ein (Kommunikation erfolgt ohne I2C-Busteilnehmeradresse).
 
-Diese "Bit-Banging-Lösung" ist entstanden durch Mitschneiden einer Arduino Beispielkommunikation (nachgehalten mit [Logic-Analyser](https://www.saleae.com/de) und Stift & Zettel)) und Vergleich mit dem Datenblatt.
+Diese "Bit-Banging-Lösung" ist entstanden durch Mitschneiden einer Arduino Beispielkommunikation (nachgehalten mit [Logic-Analyser](https://www.saleae.com/de) und Stift & Zettel) und Vergleich mit dem Datenblatt.
 
 <!--Todo (... dahingehende Änderungsversuche machen Probleme mit wertwillkürlicher Anzeige !!! Problem: voneinander (un)abhängige Clocks ... Hardwarequarz hierbei: **25 MHz**)-->
 
