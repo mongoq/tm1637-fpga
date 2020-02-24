@@ -16,6 +16,11 @@ This "bit-banging solution" was developed by sniffing on example communication w
 
 ---
 
+![alt text](https://wiki.das-labor.org/images/thumb/b/b3/Workshop_ArduinoGR20.png/120px-Workshop_ArduinoGR20.png "Arduino Gruppe Ruhrgebiet")
+[Talk on RTC Clocks](https://github.com/mongoq/tm1637-fpga/blob/master/Vortrag_-_Arduino_Real_Time_Clock_mit_7-Segment_Anzeige.pdf)
+
+---
+
 1. Version: **tm1637_standalone.vhd** - Display of **2017** hard coded
 
 2. Version: **tm1637_external_connect.vhd** - Connection to "outside world" implemented ... thanks go to Igor K. !!! 
@@ -25,9 +30,3 @@ This "bit-banging solution" was developed by sniffing on example communication w
 ---
 
 ![alt text](https://i.ebayimg.com/images/g/qf8AAOSw301aUlaS/s-l400.jpg "TM1637")
-
----
-
-![alt text](https://wiki.das-labor.org/images/thumb/b/b3/Workshop_ArduinoGR20.png/120px-Workshop_ArduinoGR20.png "Arduino Gruppe Ruhrgebiet")
-
-[Talk on RTC Clocks](https://github.com/mongoq/tm1637-fpga/blob/master/Vortrag_-_Arduino_Real_Time_Clock_mit_7-Segment_Anzeige.pdf)
