@@ -18,7 +18,7 @@ This "bit-banging solution" was developed by sniffing on example communication w
 
 ![alt text](https://wiki.das-labor.org/images/thumb/b/b3/Workshop_ArduinoGR20.png/120px-Workshop_ArduinoGR20.png "Arduino Gruppe Ruhrgebiet")
 
-Talk: [Arduino TM1637 RTC Clock](https://github.com/mongoq/tm1637-fpga/raw/master/Vortrag_-_Arduino_Real_Time_Clock_mit_7-Segment_Anzeige.pdf)
+Talk: [Arduino Nano TM1637 DS1307 RTC Clock](https://github.com/mongoq/tm1637-fpga/raw/master/Vortrag_-_Arduino_Real_Time_Clock_mit_7-Segment_Anzeige.pdf)
 
 ---
 
