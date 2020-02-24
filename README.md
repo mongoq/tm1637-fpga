@@ -25,3 +25,7 @@ This "bit-banging solution" was developed by sniffing on example communication w
 ---
 
 ![alt text](https://i.ebayimg.com/images/g/qf8AAOSw301aUlaS/s-l400.jpg "TM1637")
+
+---
+
+Talk on RTC Clocks 
