@@ -4,7 +4,7 @@
 
 Module uses functionally reduced Version of I2C (no bus identifier number)
 
-This "bit-banging solution" was devised by sniffing on example communication with an Arduino board (with a [Logic-Analyser](https://www.saleae.com/de), a pen and a piece of paper).
+This "bit-banging solution" was developed by sniffing on example communication with an Arduino board (with a [Logic-Analyser](https://www.saleae.com/de), a pen and a piece of paper).
 
 <!--Modul setzt funktionsreduzierte Version von I2C ein (Kommunikation erfolgt ohne I2C-Busteilnehmeradresse).-->
 
