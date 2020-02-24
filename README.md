@@ -28,4 +28,4 @@ This "bit-banging solution" was developed by sniffing on example communication w
 
 ---
 
-Talk on RTC Clocks 
+[Talk on RTC Clocks](https://github.com/mongoq/tm1637-fpga/blob/master/Vortrag_-_Arduino_Real_Time_Clock_mit_7-Segment_Anzeige.pdf)
