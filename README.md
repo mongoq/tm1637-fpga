@@ -16,3 +16,7 @@ Diese "Bit-Banging-Lösung" ist entstanden durch Mitschneiden einer Arduino Beis
 ---
 
 ![alt text](https://i.ebayimg.com/images/g/qf8AAOSw301aUlaS/s-l400.jpg "TM1637")
+
+---
+
+TODO: Use Integer Minus Sign to represent missing ":" Segment ...
