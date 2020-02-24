@@ -20,7 +20,7 @@ This "bit-banging solution" was developed by sniffing on example communication w
 
 2. Version: **tm1637_external_connect.vhd** - Connection to "outside world" implemented ... thanks go to Igor K. !!! 
 
-<!--3. Version: TODO: Use Integer Minus Sign to represent missing ":" Segment ... -->
+3. Version: TODO: Add missing ":" Segment (see [Example Arduino Code](https://draeger-it.blog/arduino-lektion-26-4-digit-7-segment-display/?cn-reloaded=1))
 
 ---
 
