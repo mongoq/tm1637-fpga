@@ -26,7 +26,7 @@ Talk: [Arduino Nano RTC Clock (TM1637 & DS1307)](https://github.com/mongoq/tm163
 
 1. Version: **tm1637_standalone.vhd** - Display of **2017** hard coded
 
-2. Version: **tm1637_external_connect.vhd** - Connection to "outside world" implemented ... thanks go to Igor K. !!! 
+2. Version: **tm1637_external_connect.vhd** - Connection to "outside world" implemented ...
 
 3. Version: **TODO: Add missing ":" segment** (see [Example Arduino Code](https://draeger-it.blog/arduino-lektion-26-4-digit-7-segment-display/?cn-reloaded=1#Quellcode-3))
 
